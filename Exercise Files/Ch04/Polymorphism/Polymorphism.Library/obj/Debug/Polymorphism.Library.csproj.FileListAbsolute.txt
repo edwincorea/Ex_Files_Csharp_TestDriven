@@ -1,0 +1,6 @@
+C:\Users\edwin\Documents\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\Polymorphism\Polymorphism.Library\bin\Debug\Polymorphism.Library.dll
+C:\Users\edwin\Documents\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\Polymorphism\Polymorphism.Library\bin\Debug\Polymorphism.Library.pdb
+C:\Users\edwin\Documents\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\Polymorphism\Polymorphism.Library\obj\Debug\Polymorphism.Library.csprojAssemblyReference.cache
+C:\Users\edwin\Documents\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\Polymorphism\Polymorphism.Library\obj\Debug\Polymorphism.Library.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Documents\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\Polymorphism\Polymorphism.Library\obj\Debug\Polymorphism.Library.dll
+C:\Users\edwin\Documents\Ex_Files_Csharp_TestDriven\Exercise Files\Ch04\Polymorphism\Polymorphism.Library\obj\Debug\Polymorphism.Library.pdb
